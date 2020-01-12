@@ -237,8 +237,8 @@
     "branch": "master",
     "compatibility": [
       {
-        "version": "4.2",
-        "commit": "256bb4bb2492670dd0f9957a7c0b178137b60a3a"
+        "version": "5.1",
+        "commit": "5a47c82cf132de50803700a06e9bf9be7d535285"
       }
     ],
     "platforms": [
@@ -2088,8 +2088,8 @@
     "branch": "master",
     "compatibility": [
       {
-        "version": "4.2",
-        "commit": "fcf4a94d8e0cdd4e312286668340609bb54ff417"
+        "version": "5.1",
+        "commit": "a45f218217175e7c933acc82681ec8ce62ec55a4"
       }
     ],
     "platforms": [
@@ -2130,7 +2130,7 @@
         "action": "TestXcodeWorkspaceScheme",
         "workspace": "ReactiveKit.xcworkspace",
         "scheme": "ReactiveKit-iOS",
-        "destination": "platform=iOS Simulator,name=iPhone XS"
+        "destination": "platform=iOS Simulator,name=iPhone 11"
       },
       {
         "action": "BuildSwiftPackage",
